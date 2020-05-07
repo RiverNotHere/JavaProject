@@ -12,7 +12,7 @@ Steps to run the jar:
 1. Download it to your local device
 2. Open Terminal, Cmd, or console based on your OS
 3. Use "cd" command to go to the place you saved it at
-4. Type in | java -jar <file name>.jar |
+4. Type in | java -jar (file name).jar |
 5. Have fun using it!
   
 
