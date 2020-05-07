@@ -17,7 +17,6 @@ Steps to run the jar:
   
 
 
-Any questions and suggestions can contact me 
-via email: 
+Any questions and suggestions can contact me via email: 
 gyoushijie@gmail.com
   
